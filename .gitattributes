@@ -1,0 +1,4 @@
+* text auto
+*.inf text eol=crlf
+*.html text eol=lf
+*.ico binary
