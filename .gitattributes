@@ -1,4 +1,5 @@
 * text auto
 *.inf text eol=crlf
 *.html text eol=lf
+Makefile text eol=lf
 *.ico binary
